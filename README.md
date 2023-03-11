@@ -10,9 +10,6 @@
 <li>Git</li>
 </ul>
 
-<h2>Experiência Profissional</h2>
-<p>Já trabalhei na criação de sites como freelancer usando HTML, CSS, JavaScript e PHP.</p>
-
 <h2>Como posso ajudar?</h2>
 
 <p>Estou em busca de uma oportunidade para aplicar minhas habilidades em equipe. Se você está procurando um desenvolvedor Python com experiência em Flask e Docker, por favor, entre em contato comigo. Estou aberto para discutir novos projetos e oportunidades de trabalho.</p>
