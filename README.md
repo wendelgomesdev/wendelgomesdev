@@ -7,7 +7,6 @@
 <li>Python</li>
 <li>Flask</li>
 <li>Docker</li>
-<li>Git</li>
 </ul>
 
 <h2>Como posso ajudar?</h2>
