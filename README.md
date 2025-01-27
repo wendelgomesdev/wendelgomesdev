@@ -5,7 +5,7 @@
 <h2>Habilidades</h2>
 <ul>
 <li>Python</li>
-<li>Flask</li>
+<li>JavaScript</li>
 <li>Docker</li>
 </ul>
 
